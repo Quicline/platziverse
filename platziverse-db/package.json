@@ -1,0 +1,22 @@
+{
+  "name": "platziverse-db",
+  "version": "1.0.0",
+  "description": "A simple IoT Platform - DB",
+  "main": "index.js",
+  "scripts": {
+    "lint":"standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quicline/platsiverse.git"
+  },
+  "author": "Armando",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Quicline/platsiverse/issues"
+  },
+  "homepage": "https://github.com/Quicline/platsiverse#readme",
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}
